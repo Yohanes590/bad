@@ -1,3 +1,1 @@
-# bad!
-# low lentency!
-# tragectory
+# trajector
